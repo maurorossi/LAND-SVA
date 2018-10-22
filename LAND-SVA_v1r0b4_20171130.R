@@ -32,7 +32,7 @@
 ####                   mauro.rossi@irpi.cnr.it                       ####
 ####                  geomorfologia@irpi.cnr.it                      ####
 ####                                                                 ####
-####    Universidad del Pa?s Vasco/Euskal Herriko Unibertsitatea     ####
+####    Universidad del País Vasco/Euskal Herriko Unibertsitatea     ####
 ####       Facultad de Ciencias, Departamento de Geodinamica         ####
 ####               Zientzia Fakultatea, Geodinamika Saila            ####
 ####                     txomin.bornaetxea@ehu.eus                   ####
